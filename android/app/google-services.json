@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933758842061",
+    "firebase_url": "https://teste-hasura.firebaseio.com",
+    "project_id": "teste-hasura",
+    "storage_bucket": "teste-hasura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933758842061:android:96ff156feb2b5eaa95a584",
+        "android_client_info": {
+          "package_name": "com.bruno.hasura_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933758842061-a4mb7egpp5nil50qpdoolb917jvtf4qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bruno.hasura_firebase",
+            "certificate_hash": "8817a1cfffa978f2ada781cae2b17edaeb94e28c"
+          }
+        },
+        {
+          "client_id": "933758842061-n26mnvn186bl7tq6a7svikpi9kg5jve2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16Y8Tp9bY8g8NAyLOv8CR2wU4413AINc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933758842061-n26mnvn186bl7tq6a7svikpi9kg5jve2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
